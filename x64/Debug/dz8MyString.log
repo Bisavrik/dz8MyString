@@ -1,0 +1,6 @@
+﻿  main.cpp
+  MyString.cpp
+C:\Users\sofia\source\repos\dz8MyString\dz8MyString\MyString.cpp(28,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\source\repos\dz8MyString\dz8MyString\MyString.cpp(69,12): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+  dz8MyString.vcxproj -> C:\Users\sofia\source\repos\dz8MyString\x64\Debug\dz8MyString.exe
